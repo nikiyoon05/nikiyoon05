@@ -1,15 +1,6 @@
-# Hi, I'm Niki! 👋 
 
-I'm a Mathematics major and Computer Science Coterm at Stanford University. Interested building stuff for the real world, always down to collab on a project. 
-
----
-
-### What I'm working on:
-- 🛠️Building practical, high-impact software systems.
-- 🤖 Fine-tuning ML models for real-world datasets.
-- 🌍 Researching the intersection of technology, policy, and global dynamics.
-- 📫 How to reach me: nikiyoon@stanford.edu
-
+I'm a Mathematics major and Computer Science Coterm at Stanford University.
+nikiyoon@stanford.edu
 ---
 
 ### ⚡ Technologies & Tools
