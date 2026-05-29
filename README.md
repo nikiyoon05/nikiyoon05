@@ -3,7 +3,7 @@ I'm a Mathematics major and Computer Science Coterm at Stanford University.
 nikiyoon@stanford.edu
 ---
 
-### ⚡ Technologies & Tools
+### Technologies & Tools
 
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
